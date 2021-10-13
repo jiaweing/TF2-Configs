@@ -1,15 +1,16 @@
 "motd_entries"
 {
-	"last_request_time"		"2021-09-18 11:11:06"
+	"last_request_time"		"2021-10-13 09:20:22"
 	"last_request_language"		"english"
-	"100"
+	"101"
 	{
-		"post_time"		"2021-06-23 14:55:00"
-		"title_english"		"Checked out the blog?"
-		"text_english"		"If you haven't read the official TF2 blog, it's full of insights into our development process, links to notable community productions, and random stories about our love of hats. Hit the button below to take a look!"
-		"url"		"http://www.teamfortress.com/"
-		"image"		"../logo/new_tf2_logo"
-		"header_type"		"0"
-		"header_english"		"#MMenu_News"
+		"post_time"		"2021-10-06 14:55:00"
+		"title_english"		"Scream Fortress XIII"
+		"text_english"		"Complete a new round of Merasmissions! Make offerings to your Soul Gargoyle! Play six new community created Halloween maps! Check out new community cosmetic items, Unusual effects, taunts, and war paints! Scream Fortress XIII runs through November 7, 2021."
+		"url"		"http://www.teamfortress.com/post.php?id=89183"
+		"image"		"illustrations/gamemode_halloween2015"
+		"header_type"		"2"
+		"header_english"		"Happy Halloween"
+		"header_icon"		"class_icons/filter_all_motd"
 	}
 }
