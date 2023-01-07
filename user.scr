@@ -32,7 +32,7 @@
 
 
 // Half-Life User Info Configuration Layout Script (stores last settings chosen, too)
-// File generated:  Sat Oct  9 14:46:16 AM
+// File generated:  Sun Nov  6 15:02:50 AM
 //
 //
 // Cvar	-	Setting
@@ -324,7 +324,7 @@ DESCRIPTION INFO_OPTIONS
 		"#TF_AutoMedicCallThreshold"
 		"#Tooltip_AutoMedicCallThreshold"
 		{ SLIDER 10 99 }
-		{ "50" }
+		{ "99" }
 	}
 
 	"category4"
@@ -493,7 +493,7 @@ DESCRIPTION INFO_OPTIONS
 			"#TF_Contract_Progress_All" "1"
 			"#TF_Contract_Progress_Active" "2"
 		}
-		{ "1" }
+		{ "0" }
 	}
 
 	"tf_contract_competitive_show"
@@ -506,7 +506,7 @@ DESCRIPTION INFO_OPTIONS
 			"#TF_Contract_Progress_All" "1"
 			"#TF_Contract_Progress_Active" "2"
 		}
-		{ "1" }
+		{ "0" }
 	}
 
 	"tf_scoreboard_mouse_mode"
@@ -680,7 +680,7 @@ DESCRIPTION INFO_OPTIONS
 		"#GameUI_DisableSprays"
 		"#Tooltip_DisableSprays"
 		{ BOOL }
-		{ "1" }
+		{ "0" }
 	}
 
 	"tf_delete_temp_files"
